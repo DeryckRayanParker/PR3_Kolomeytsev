@@ -2,9 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- * Created by rokde on 11.09.2016.
- */
 public class Main {
 
     private int i,j,ans; //constants i, j and max quantity
