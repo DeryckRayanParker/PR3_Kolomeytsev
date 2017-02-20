@@ -26,7 +26,7 @@ public class Main {
                 System.out.println("Value is incorrect.");
             }
         }
-            while (false){
+            while (true){
             System.out.print("Enter j: ");
             String ij = red.readLine();
             if (ij.matches("[-+]?\\d+") && ij != null && ij.length() < 7) {
